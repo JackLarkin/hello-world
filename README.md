@@ -1,2 +1,3 @@
 # hello-world
-my first repository on github!
+my first repository 
+my name is jack whatup world.
